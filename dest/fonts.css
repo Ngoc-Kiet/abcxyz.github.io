@@ -1,0 +1,398 @@
+/* FONT FACE - font-display: fallback; */
+/* FONT FACE - font-display: fallback; */
+@font-face {
+    font-family: "ebbi";
+    src: url("../fonts/ElleBaskerville-BoldItalic.woff2") format("woff2"),
+        url("../fonts/ElleBaskerville-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "eb";
+    src: url("../fonts/ElleBaskerville.woff2") format("woff2"), url("../fonts/ElleBaskerville.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "ebb";
+    src: url("../fonts/ElleBaskerville-Bold.woff2") format("woff2"),
+        url("../fonts/ElleBaskerville-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "ebsb";
+    src: url("../fonts/ElleBaskerville-SemiBold.woff2") format("woff2"),
+        url("../fonts/ElleBaskerville-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "ebi";
+    src: url("../fonts/ElleBaskerville-Italic.woff2") format("woff2"),
+        url("../fonts/ElleBaskerville-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "ebsbi";
+    src: url("../fonts/ElleBaskerville-SemiBoldItalic.woff2") format("woff2"),
+        url("../fonts/ElleBaskerville-SemiBoldItalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: 'utm';
+    src: url('../fonts/UTMAptima.woff2') format('woff2'),
+        url('../fonts/UTMAptima.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'UTM Aptima';
+    src: url('UTMAptima.woff2') format('woff2'),
+        url('UTMAptima.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito1';
+    src: url('../fonts/Nunito-ExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/Nunito-BoldItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito2';
+    src: url('../fonts/Nunito-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Nunito-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'UTM Aptima';
+    src: url('UTMAptima.woff2') format('woff2'),
+        url('UTMAptima.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito3';
+    src: url('Nunito-ExtraLightItalic.woff2') format('woff2'),
+        url('Nunito-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito4';
+    src: url('Nunito-ExtraLight.woff2') format('woff2'),
+        url('Nunito-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Bold.woff2') format('woff2'),
+        url('Nunito-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-BlackItalic.woff2') format('woff2'),
+        url('Nunito-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Black.woff2') format('woff2'),
+        url('Nunito-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-BoldItalic.woff2') format('woff2'),
+        url('Nunito-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Medium.woff2') format('woff2'),
+        url('Nunito-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-ExtraLightItalic.woff2') format('woff2'),
+        url('Nunito-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-ExtraLight.woff2') format('woff2'),
+        url('Nunito-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-ExtraBold.woff2') format('woff2'),
+        url('Nunito-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-LightItalic.woff2') format('woff2'),
+        url('Nunito-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Light.woff2') format('woff2'),
+        url('Nunito-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-ExtraBoldItalic.woff2') format('woff2'),
+        url('Nunito-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Italic.woff2') format('woff2'),
+        url('Nunito-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Regular.woff2') format('woff2'),
+        url('Nunito-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-MediumItalic.woff2') format('woff2'),
+        url('Nunito-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-SemiBold.woff2') format('woff2'),
+        url('Nunito-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-SemiBoldItalic.woff2') format('woff2'),
+        url('Nunito-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'IBMB';
+    src: url('../fonts/IBMPlexSans-Bold.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMN';
+    src: url('../fonts/IBMPlexSans-ExtraLight.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMI2';
+    src: url('../fonts/IBMPlexSans-ExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMI3';
+    src: url('../fonts/IBMPlexSans-LightItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMN3';
+    src: url('../fonts/IBMPlexSans-Light.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMBI';
+    src: url('../fonts/IBMPlexSans-BoldItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMNI';
+    src: url('../fonts/IBMPlexSans-Italic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMN5';
+    src: url('../fonts/IBMPlexSans-Medium.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMN1';
+    src: url('../fonts/IBMPlexSans-Thin.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMN6';
+    src: url('../fonts/IBMPlexSans-SemiBold.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMI1';
+    src: url('../fonts/IBMPlexSans-ThinItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMNN';
+    src: url('../fonts/IBMPlexSans-Regular.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMI5';
+    src: url('../fonts/IBMPlexSans-MediumItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMI6';
+    src: url('../fonts/IBMPlexSans-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/IBMPlexSans-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
